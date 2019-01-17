@@ -1,0 +1,66 @@
+*{
+	box-sizing: border-box;
+	margin:0;
+}
+body{
+	background-image: url(2538621-from-above-coffee-beans-textured-background-colour-dark-photocase-stock-photo-large.jpeg);
+
+  background-attachment: fixed;
+}
+.tab1{
+	position: fixed;
+	width: 100%;
+	top: 0px;
+    background-color: 	#F4A460;
+	color: black;
+	padding: 20px;
+	opacity: 0.95;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+li{
+	padding: 16px;
+font-weight: bold;
+	display: inline;
+	font-family: sans-serif;
+	margin: 16px;
+}
+ a:hover {
+  background: white;
+   padding: 12px;
+  border: 1px solid PaleGoldenRod;
+  color: red;
+}
+.head{
+	font-size: 36px;
+	margin:38px;
+	padding: 32px;
+color: 	#FFE4E1;
+font-family: Apple Chancery, cursive;
+
+}
+.all{
+	background-color: black;
+	margin: 16px 16px;
+	padding: 8px;
+	height: 595px;
+}
+.coffee{ 
+	margin: auto;
+	padding: 8px;
+	border: 1px solid PaleGoldenRod;
+	float: left;
+}
+.img{
+	width: 495px;
+	height: 400px;
+}
+.matter{
+margin: 16px;
+	padding: 16px;
+	font-size: 20px;
+	color: #FFE4E1;
+	line-height: 2em;
+}

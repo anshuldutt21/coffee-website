@@ -1,0 +1,126 @@
+*{
+	box-sizing: border-box;
+	margin:0;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+body{
+	background-image: url(2538621-from-above-coffee-beans-textured-background-colour-dark-photocase-stock-photo-large.jpeg);
+
+  background-attachment: fixed;
+}
+.tab1{
+	position: fixed;
+	width: 100%;
+	top: 0px;
+    background-color: 	#F4A460;
+	color: black;
+	padding: 20px;
+	opacity: 0.95;
+}
+li{
+	padding: 16px;
+font-weight: bold;
+	display: inline;
+	font-family: sans-serif;
+	margin: 16px;
+}
+ a:hover {
+  background: white;
+   padding: 12px;
+  border: 1px solid PaleGoldenRod;
+  color: red;
+}
+	
+#ab{
+	text-align: right;
+}
+.header{
+	font-size: 20px;
+	margin:38px;
+	padding: 32px;
+color: 	#FFE4E1;
+font-family: Apple Chancery, cursive;
+}
+h2.header{
+	padding: 24px;
+	color: #FFE4E1;
+	margin-bottom: 16px;
+	font-family: Apple Chancery, cursive;
+}
+.img{
+	height: 850px;
+	border-radius: 10px;
+	padding-left: 5px;
+	max-width: 100%;
+
+}
+.matter{
+	margin: 16px;
+	padding: 30px;
+	font-family: Apple Chancery, cursive;
+	color: #FFE4E1;
+}
+.mat{
+	margin: 16px;
+	text-align: center;
+	padding: 24px;
+	font-size: 20px;
+	background-color: black;
+	color: #FFE4E1;
+	line-height: 2em;
+}
+.end{
+	background-image: url(Asian-Paints-Apex-Ultima-Light-SDL881604244-1-1eb43.jpg);
+	width: 100%;
+	margin-top: 26px;
+	margin-bottom: 0px;
+	padding: 16px;
+}
+.end h1{
+	color: black;
+	line-height: 2em;
+	text-align: center;
+	font-size: 26px;
+	background-color: 		#A0522D;
+	border-radius: 5px;
+	margin:38px;
+	padding: 32px;
+font-family: Apple Chancery, cursive;
+}
+.img2{
+	width: 50px;
+	height: 50px;
+	float: left;
+	border-radius: 50%;
+	margin-left: 40px;
+}
+.end2{
+		font-size: 26px;
+	margin:32px;
+	padding: 10px;
+font-family: Apple Chancery, cursive;
+}
+.h2{
+	font-family: Apple Chancery, cursive;
+padding: 8px;
+text-align: center;
+font-size: 26px;
+}
+.matter2{
+	margin: 16px;
+	text-align: center;
+	padding: 24px;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 2em;
+}
+.no{
+	padding:16px;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 2em;
+	display: inline-block;	
+}

@@ -1,0 +1,131 @@
+*{
+	box-sizing: border-box;
+	margin:0;
+}
+body{
+	background-image: url(2538621-from-above-coffee-beans-textured-background-colour-dark-photocase-stock-photo-large.jpeg);
+
+  background-attachment: fixed;
+}
+.tab1{
+	position: fixed;
+	width: 100%;
+	top: 0px;
+    background-color: 	#F4A460;
+	color: black;
+	padding: 20px;
+	opacity: 0.95;
+}
+li{
+	padding: 16px;
+font-weight: bold;
+	display: inline;
+	font-family: sans-serif;
+	margin: 16px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+ a:hover {
+  background: white;
+   padding: 12px;
+  border: 1px solid PaleGoldenRod;
+  color: red;
+}
+	
+#ab{
+	text-align: right;
+}
+.header{
+	font-size: 20px;
+	margin:38px;
+	padding: 32px;
+color: 	#FFE4E1;
+font-family: Apple Chancery, cursive;
+}
+h2.header{
+	padding: 24px;
+	color: #FFE4E1;
+	margin-bottom: 16px;
+	font-family: Apple Chancery, cursive;
+}
+form {
+  border: 3px solid #f1f1f1;
+}
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px 26px;
+  margin: 24px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+  opacity: 0.8;
+}
+
+/* Extra style for the cancel button (red) */
+.cancelbtn {
+  width: auto;
+  padding: 5px 18px;
+  background-color: #f44336;
+}
+
+/* Center the avatar image inside this container */
+.imgcontainer {
+	margin: 16px auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  align-content: center;
+}
+
+/* Add padding to containers */
+.container {
+  padding: 20px;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+    display: block;
+    float: none;
+  }
+  .cancelbtn {
+    width: 100%;
+  }
+}
+.all{
+	background-color: black;
+	margin: 16px 16px;
+	padding: 16px;
+	height: 850px;
+}
+label{
+	margin: 16px;
+	padding: 16px;
+	font-size: 32px;
+	color: #FFE4E1;
+	line-height: 2em;
+}
+input[type="checkbox"]{
+  width: 20px; 
+  height: 20px;
+
+}
